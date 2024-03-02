@@ -8,7 +8,7 @@ Practical 4: Aggregation using MongoDB
 Microsoft Windows [Version 10.0.22621.3155]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\dhaval>mongoimport --jsonArray --db Titanic_data --collection Titanic_data --file "C:\Users\APEKSHA\Downloads\Titanic.json"
+C:\Users\dhaval>mongoimport --jsonArray --db Titanic_data --collection Titanic_data --file "C:\Users\dhaval\Downloads\Titanic.json"
 2024-03-01T23:10:25.249+0530    connected to: mongodb://localhost/
 2024-03-01T23:10:25.309+0530    1309 document(s) imported successfully. 0 document(s) failed to import.
 
